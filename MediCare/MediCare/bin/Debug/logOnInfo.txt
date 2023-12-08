@@ -1,0 +1,4 @@
+ec2-52-6-244-177.compute-1.amazonaws.com
+s_user23
+s_user23
+s_user23
